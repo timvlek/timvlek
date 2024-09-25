@@ -2,7 +2,6 @@
 
 **Data is my passion.** I enjoy exploring new techniques and implementing them. I'm particularly interested in data visualization and machine learning.
 
-[assets/images/Stacked_barplot_of_class_counts_vs_conservation_status]
 ![Example from Biodiversity in National Parks Project](./assets/images/Stacked_barplot_of_class_counts_vs_conservation_status.svg)
 
 ### About Me

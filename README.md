@@ -25,14 +25,14 @@ Feel free to explore my projects below to see my work in practice. I’m always 
 
 ## Technical skills
 
-- **Programming:*- Python, SQL, R, Markdown, HTML, CSS
-- **Data analysis:*- pandas, numpy
-- **Data visualization:*- matplotlib, seaborn, plotly
-- **Statistical analysis:*- scipy, statsmodels
-- **Machine learning:*- scikit-learn, PyTorch, fastai
-- **Big data:*- PySpark
-- **Business intelligence (BI):*- Excel, PowerBI, Tableau, Qlik Sense
-- **Tools:*- Jupyter Notebook, Git, Poetry
+- **Programming:** Python, SQL, R, Markdown, HTML, CSS
+- **Data analysis:** pandas, numpy
+- **Data visualization:** matplotlib, seaborn, plotly
+- **Statistical analysis:** scipy, statsmodels
+- **Machine learning:** scikit-learn, PyTorch, fastai
+- **Big data:** PySpark
+- **Business intelligence (BI):** Excel, PowerBI, Tableau, Qlik Sense
+- **Tools:** Jupyter Notebook, Git, Poetry
 
 ## Featured projects
 
@@ -47,6 +47,6 @@ Feel free to explore my projects below to see my work in practice. I’m always 
 - [Yelp regression](https://github.com/timvlek/yelp-regression):egression analysis on Yelp data to predict business ratings based on review and business attributes. Focus on feature engineering, model building, and performance evaluation.
 
 ## Contact
-- **Email:*- tim.vlek@hotmail.com
-- **GitHub:*- https://github.com/timvlek
-- **LinkedIn:*- https://www.linkedin.com/in/tim-vlek
+- **Email:** tim.vlek@hotmail.com
+- **GitHub:** https://github.com/timvlek
+- **LinkedIn:** https://www.linkedin.com/in/tim-vlek

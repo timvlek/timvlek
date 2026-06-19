@@ -4,56 +4,61 @@
 
 ![Example from Biodiversity in National Parks Project](./assets/images/Stacked_barplot_of_class_counts_vs_conservation_status.svg)
 
-### About Me
-Data Scientist with a passion for data visualization and machine learning. 
-My data passion is twofold. First, I love to create clean and simple graphics, with a clear message. Second, I enjoy building informative machine learning models. I always try to create modular and well documented projects using clear and concise Python code. Below is one example of a data visualization I created using matplotlib and seaborn. Please check out my profile for further and more extensive examples of interests and abilities.
+## 📊 Data analyst / Data scientist
 
-I love diving into complex datasets to uncover insights and build predictive models. I create clean and simple graphics using tools such as matplotlib and seaborn. And I always try to create modular and well documented projects using clear and concise Python code for my machine learning prokects. With a background in different technological fields and a conscientious personality, I bring a unique perspective to data-driven problem-solving. 
+I'm Tim, a self-trained data scientist focused on transforming raw data into actionable insights through data analysis, visualization, and machine learning.
 
+I enjoy uncovering patterns in complex datasets and communicating findings through clear, compelling visuals. My work emphasizes clean, structured, and reproducible projects, from data preparation through to model evaluation.
 
-## 📊 Data Scientist / Data Analyst
+I’m particularly interested in applying data science to real-world problems in energy, climate, and sustainability, where data-driven insights can support meaningful impact.
 
-I enjoy turning data into clear insights and building models that explain real-world behavior.  
-My focus is on **clean analysis, strong visualization, and reproducible Python projects**.
+Feel free to explore my projects below to see my work in practice. I’m always open to feedback, questions, and discussions about potential opportunities.
 
 ---
 
 ## 🧠 What I do
 
-- 📈 Data analysis & visualization (pandas, matplotlib, seaborn, plotly)
-- 🤖 Machine learning models (scikit-learn, fastai)
-- 🧹 Data cleaning & preprocessing
-- 📊 Building end-to-end data projects
+🧹 Data cleaning & preprocessing
+🔧 Feature engineering
+📈 Exploratory analysis & visualization
+🤖 Machine learning & predictive modeling
+📊 Model evaluation & performance metrics
+📢 Insight communication & storytelling
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical skills
 
 **Programming:** Python, SQL, R, Markdown, HTML, CSS
-**Business intelligenc (BI)**: Excel, PowerBI, Tableau, Qlik Sense
+**Data analysis:** pandas, numpy
 **Data visualization:** matplotlib, seaborn, plotly
-**Data analysis**: pandas, numpy, scipy, statsmodels
-**Machine learning:** PyTorch, fastai
-**Big data**: PySpark
-**Tools:** Jupyter Notebook, Git, poetry
+**Statistical analysis:** scipy, statsmodels
+**Machine learning:** scikit-learn, PyTorch, fastai
+**Big data:** PySpark
+**Business intelligence (BI):** Excel, PowerBI, Tableau, Qlik Sense
+**Tools:** Jupyter Notebook, Git, Poetry
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured projects
 
-### 📍 Marketing Data Analyst Project
-Analysis of marketing/customer data with visual insights and statistical exploration.
+📊 [Marketing data analyst](https://github.com/timvlek/marketing-data-analyst)
 
-🔗 https://github.com/timvlek/marketing-data-analyst
+Analysis of customer and marketing data to uncover behavioral patterns and relationships between features. Focused on exploratory data analysis, statistical summaries, and clear data visualization to generate actionable insights.
 
-### 📍 Biodiversity in national parks
-🔗 https://github.com/timvlek/biodiversity-in-national-parks)]
-* Marketing data analyst: [[Link to GitHub repo](https://github.com/timvlek/marketing-data-analyst)]
-* Museums and nature centers: [[Link to GitHub repo](https://github.com/timvlek/museums-and-nature-centers)]
-* OK Cupid: data a scientist: [[Link to GitHub repo](https://github.com/timvlek/okcupid-date-a-scientist}]
-* Yelp regression: [[Link to GitHub repo](https://github.com/timvlek/yelp-regression
+🌿 [Biodiversity in national parks](https://github.com/timvlek/biodiversity-in-national-parks)
 
+Exploratory analysis of biodiversity data across national parks to understand species distribution and conservation patterns. Includes data cleaning, aggregation, and visualization of ecological trends.
 
+🏛️ [Museums and nature centers](https://github.com/timvlek/museums-and-nature-centers)
+
+Analysis of public cultural and environmental sites to explore geographic distribution and accessibility patterns. Focus on data cleaning, mapping insights, and categorical analysis.
+
+❤️ [OKCupid: data a scientist](https://github.com/timvlek/okcupid-date-a-scientist)
+
+Analysis of user profile data to explore patterns in dating preferences and behaviors. Includes feature engineering, exploratory analysis, and classification-based insights using machine learning techniques.
+
+⭐ [Yelp regression](https://github.com/timvlek/yelp-regression)
 
 ---
 
@@ -62,8 +67,6 @@ Currently working on expanding my portfolio with:
 - machine learning projects
 - deeper EDA case studies
 - visualization-focused analyses
-
-## Projects
 
 ### Contact
 * **Email:** tim.vlek@hotmail.com

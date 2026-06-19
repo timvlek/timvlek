@@ -4,7 +4,7 @@
 
 ![Example from Biodiversity in National Parks Project](./assets/images/Stacked_barplot_of_class_counts_vs_conservation_status.svg)
 
-## Data scientist
+## Profile
 
 I'm Tim, a self-trained data scientist focused on turning raw data into actionable insights through analysis, visualization, and machine learning.
 

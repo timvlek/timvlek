@@ -18,25 +18,25 @@ Feel free to explore my projects below to see my work in practice. I’m always 
 
 ## 🧠 What I do
 
-🧹 Data cleaning & preprocessing
-🔧 Feature engineering
-📈 Exploratory analysis & visualization
-🤖 Machine learning & predictive modeling
-📊 Model evaluation & performance metrics
-📢 Insight communication & storytelling
+- 🧹 Data cleaning & preprocessing
+- 🔧 Feature engineering
+- 📈 Exploratory analysis & visualization
+- 🤖 Machine learning & predictive modeling
+- 📊 Model evaluation & performance metrics
+- 📢 Insight communication & storytelling
 
 ---
 
 ## 🛠️ Technical skills
 
-**Programming:** Python, SQL, R, Markdown, HTML, CSS
-**Data analysis:** pandas, numpy
-**Data visualization:** matplotlib, seaborn, plotly
-**Statistical analysis:** scipy, statsmodels
-**Machine learning:** scikit-learn, PyTorch, fastai
-**Big data:** PySpark
-**Business intelligence (BI):** Excel, PowerBI, Tableau, Qlik Sense
-**Tools:** Jupyter Notebook, Git, Poetry
+- **Programming:** Python, SQL, R, Markdown, HTML, CSS
+- **Data analysis:** pandas, numpy
+- **Data visualization:** matplotlib, seaborn, plotly
+- **Statistical analysis:** scipy, statsmodels
+- **Machine learning:** scikit-learn, PyTorch, fastai
+- **Big data:** PySpark
+- **Business intelligence (BI):** Excel, PowerBI, Tableau, Qlik Sense
+- **Tools:** Jupyter Notebook, Git, Poetry
 
 ---
 

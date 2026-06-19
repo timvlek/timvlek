@@ -16,12 +16,12 @@ Feel free to explore my projects below. I'm open to feedback, questions, and opp
 
 ## Core skills
 
-- Data cleaning and preprocessing of structured datasets  
-- Feature engineering for predictive modeling  
-- Exploratory data analysis (EDA) to identify patterns and trends  
-- Data visualization for insight communication  
-- Machine learning & predictive modeling (classification, regression, clustering, recommendation systems)  
-- Model evaluation using statistical and performance metrics  
+- **Data cleaning and preprocessing** of structured datasets  
+- **Feature engineering** for predictive modeling  
+- **Exploratory data analysis (EDA)** to identify patterns and trends  
+- **Data visualization** for insight communication  
+- **Machine learning** and **predictive modeling** (classification, regression, clustering, recommendation systems)  
+- **Model evaluation** using statistical and performance metrics  
 - Translating data findings into clear, actionable insights  
 
 ## Technical skills
